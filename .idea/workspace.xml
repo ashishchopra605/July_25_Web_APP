@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b38ef19-8bae-485d-835d-35d38bf75bdf" name="Changes" comment="" />
+    <list default="true" id="7b38ef19-8bae-485d-835d-35d38bf75bdf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/July_25_Web_APP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/July_25_Web_APP.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

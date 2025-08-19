@@ -8,4 +8,7 @@
     <orderEntry type="jdk" jdkName="Python 3.10 (July_25_Web_APP)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="versionSpecifier" value="Strong equality (==x.y.z)" />
+  </component>
 </module>
